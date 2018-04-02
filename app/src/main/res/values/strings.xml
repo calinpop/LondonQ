@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">LondonQ</string>
+    <string name="firstQuestion">London Is The Capital Of?</string>
+    <string name="one">1 -</string>
+    <string name="Fr">France</string>
+    <string name="UK">United Kingdom</string>
+    <string name="Es">Spain</string>
+    <string name="two">2 -</string>
+    <string name="secondQuestion">London Has A Population Of?</string>
+    <string name="teenM">10 million </string>
+    <string name="twentyM">20 million</string>
+    <string name="sevenM">7 million</string>
+    <string name="BB">Big Ben</string>
+    <string name="Colo">Colosseum</string>
+    <string name="TB">Tower Bridge</string>
+    <string name="ET">Eiffel Tower</string>
+    <string name="three">3 -</string>
+    <string name="thirdQuestion">London Is Famous For?</string>
+    <string name="four">4 -</string>
+    <string name="fourthQuestion">Which city in England has the biggest population?</string>
+    <string name="hint">City Of</string>
+    <string name="Submit">Submit</string>
+    <string name="london">London</string>
+    <string name="your_score_is">Your Score Is</string>
+    <string name="reset">Reset</string>
+</resources>
